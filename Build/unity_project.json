@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "solarsystem",
+"productVersion": "0.1",
+"dataUrl": "unity_project.data.unityweb",
+"wasmCodeUrl": "unity_project.wasm.code.unityweb",
+"wasmFrameworkUrl": "unity_project.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Light",
+"backgroundColor": "#828080",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": true,
+"multithreading": false,
+"unityVersion": "2019.4.0f1"
+}
